@@ -1,2 +1,12 @@
-# ai-learning-log
-My daily learning notes on LLM and AI engineering
+# AI 持续 学习计划
+
+目标：
+- 理解大模型基础原理
+- 掌握RAG完整流程
+- 能独立写一个简单问答系统
+- 形成持续学习习惯
+
+最终产出：
+- 30篇学习记录
+- 1个RAG小项目
+- 清晰技术路线
