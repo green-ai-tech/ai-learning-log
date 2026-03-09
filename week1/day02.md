@@ -23,3 +23,4 @@
 - rich/progress.py        → 进度条原理
 ### 测试
 ![rich demo 截图](/images/rich-demo-01.png)  
+![rich demo 截图2](/images/rich-demo-02.png)
